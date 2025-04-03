@@ -10,7 +10,7 @@ html{
   color: skyblue;
 }
 .pink{
-  color: pink;
+  color: rgb(255,192,203);
 }
 
 h1{
@@ -30,6 +30,6 @@ html{
   text-align: center;
 }
 
-#basic{
+#basic>p{
   font-weight: bold;
 }
